@@ -21,7 +21,7 @@ Learn more about the wheat and chessboard problem [here](http://en.wikipedia.org
 
 ### Square
 
-Write a function, `square` that accepts one one parameter, the square's postition/number. It should return the number of grains of wheat on a chessboard given that the number on each square doubles.
+Write a function, `square` that accepts one parameter, the square's postition/number. It should return the number of grains of wheat on a chessboard given that the number on each square doubles.
 
 For example:
 
@@ -49,7 +49,7 @@ square(6)
 
 ### Total
 
-Write a function, `total`, that accepts one one parameter, the square's postition/number. Given that number, it should return the total number of grains on the board *up until and including* that square.
+Write a function, `total`, that accepts one parameter, the square's postition/number. Given that number, it should return the total number of grains on the board *up until and including* that square.
 
 For example:
 
@@ -88,3 +88,5 @@ There are jasmine tests available for learn or you can manually open the `index.
 * [Math.pow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/grains.js' title='Grains'>Grains</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/grains.js'>Grains</a> on Learn.co and start learning to code for free.</p>
