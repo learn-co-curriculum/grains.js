@@ -64,7 +64,7 @@ total(3)
 // => 7
 
 total(4)
-// => 16
+// => 15
 
 total(5)
 // => 31
@@ -88,3 +88,5 @@ There are jasmine tests available for learn or you can manually open the `index.
 * [Math.pow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/grains.js' title='Grains'>Grains</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/grains.js'>Grains</a> on Learn.co and start learning to code for free.</p>
